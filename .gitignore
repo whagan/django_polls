@@ -1,3 +1,4 @@
 db.sqlite3
 secret_keys.py
 django_venv/
+*.pyc
